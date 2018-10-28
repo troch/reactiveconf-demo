@@ -1,0 +1,1237 @@
+[
+  {
+    "name": "Chongqing",
+    "country": "China",
+    "displayName": "Chongqing (China)"
+  },
+  {
+    "name": "Shanghai",
+    "country": "China",
+    "displayName": "Shanghai (China)"
+  },
+  {
+    "name": "Delhi",
+    "country": "India",
+    "displayName": "Delhi (India)"
+  },
+  {
+    "name": "Beijing",
+    "country": "China",
+    "displayName": "Beijing (China)"
+  },
+  {
+    "name": "Dhaka",
+    "country": "Bangladesh",
+    "displayName": "Dhaka (Bangladesh)"
+  },
+  {
+    "name": "Mumbai",
+    "country": "India",
+    "displayName": "Mumbai (India)"
+  },
+  {
+    "name": "Lagos",
+    "country": "Nigeria",
+    "displayName": "Lagos (Nigeria)"
+  },
+  {
+    "name": "Chengdu",
+    "country": "China",
+    "displayName": "Chengdu (China)"
+  },
+  {
+    "name": "Karachi",
+    "country": "Pakistan",
+    "displayName": "Karachi (Pakistan)"
+  },
+  {
+    "name": "Guangzhou",
+    "country": "China",
+    "displayName": "Guangzhou (China)"
+  },
+  {
+    "name": "Istanbul",
+    "country": "Turkey",
+    "displayName": "Istanbul (Turkey)"
+  },
+  {
+    "name": "Tokyo",
+    "country": "Japan",
+    "displayName": "Tokyo (Japan)"
+  },
+  {
+    "name": "Tianjin",
+    "country": "China",
+    "displayName": "Tianjin (China)"
+  },
+  {
+    "name": "Moscow",
+    "country": "Russia",
+    "displayName": "Moscow (Russia)"
+  },
+  {
+    "name": "São Paulo",
+    "country": "Brazil",
+    "displayName": "São Paulo (Brazil)"
+  },
+  {
+    "name": "Kinshasa",
+    "country": "DR Congo",
+    "displayName": "Kinshasa (DR Congo)"
+  },
+  {
+    "name": "Baoding",
+    "country": "China",
+    "displayName": "Baoding (China)"
+  },
+  {
+    "name": "Lahore",
+    "country": "Pakistan",
+    "displayName": "Lahore (Pakistan)"
+  },
+  {
+    "name": "Cairo",
+    "country": "Egypt",
+    "displayName": "Cairo (Egypt)"
+  },
+  {
+    "name": "Seoul",
+    "country": "Korea, South",
+    "displayName": "Seoul (Korea, South)"
+  },
+  {
+    "name": "Jakarta",
+    "country": "Indonesia",
+    "displayName": "Jakarta (Indonesia)"
+  },
+  {
+    "name": "Wenzhou",
+    "country": "China",
+    "displayName": "Wenzhou (China)"
+  },
+  {
+    "name": "Mexico City",
+    "country": "Mexico",
+    "displayName": "Mexico City (Mexico)"
+  },
+  {
+    "name": "Lima",
+    "country": "Peru",
+    "displayName": "Lima (Peru)"
+  },
+  {
+    "name": "London",
+    "country": "United Kingdom",
+    "displayName": "London (United Kingdom)"
+  },
+  {
+    "name": "Bangkok",
+    "country": "Thailand",
+    "displayName": "Bangkok (Thailand)"
+  },
+  {
+    "name": "Xi'an",
+    "country": "China",
+    "displayName": "Xi'an (China)"
+  },
+  {
+    "name": "Chennai",
+    "country": "India",
+    "displayName": "Chennai (India)"
+  },
+  {
+    "name": "Bangalore",
+    "country": "India",
+    "displayName": "Bangalore (India)"
+  },
+  {
+    "name": "New York City",
+    "country": "United States",
+    "displayName": "New York City (United States)"
+  },
+  {
+    "name": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "displayName": "Ho Chi Minh City (Vietnam)"
+  },
+  {
+    "name": "Hyderabad",
+    "country": "India",
+    "displayName": "Hyderabad (India)"
+  },
+  {
+    "name": "Shenzhen",
+    "country": "China",
+    "displayName": "Shenzhen (China)"
+  },
+  {
+    "name": "Suzhou",
+    "country": "China",
+    "displayName": "Suzhou (China)"
+  },
+  {
+    "name": "Nanjing",
+    "country": "China",
+    "displayName": "Nanjing (China)"
+  },
+  {
+    "name": "Dongguan",
+    "country": "China",
+    "displayName": "Dongguan (China)"
+  },
+  {
+    "name": "Tehran",
+    "country": "Iran",
+    "displayName": "Tehran (Iran)"
+  },
+  {
+    "name": "Quanzhou",
+    "country": "China",
+    "displayName": "Quanzhou (China)"
+  },
+  {
+    "name": "Shenyang",
+    "country": "China",
+    "displayName": "Shenyang (China)"
+  },
+  {
+    "name": "Bogotá",
+    "country": "Colombia",
+    "displayName": "Bogotá (Colombia)"
+  },
+  {
+    "name": "Hong Kong",
+    "country": "China",
+    "displayName": "Hong Kong (China)"
+  },
+  {
+    "name": "Baghdad",
+    "country": "Iraq",
+    "displayName": "Baghdad (Iraq)"
+  },
+  {
+    "name": "Fuzhou",
+    "country": "China",
+    "displayName": "Fuzhou (China)"
+  },
+  {
+    "name": "Changsha",
+    "country": "China",
+    "displayName": "Changsha (China)"
+  },
+  {
+    "name": "Wuhan",
+    "country": "China",
+    "displayName": "Wuhan (China)"
+  },
+  {
+    "name": "Hanoi",
+    "country": "Vietnam",
+    "displayName": "Hanoi (Vietnam)"
+  },
+  {
+    "name": "Rio de Janeiro",
+    "country": "Brazil",
+    "displayName": "Rio de Janeiro (Brazil)"
+  },
+  {
+    "name": "Qingdao",
+    "country": "China",
+    "displayName": "Qingdao (China)"
+  },
+  {
+    "name": "Foshan",
+    "country": "China",
+    "displayName": "Foshan (China)"
+  },
+  {
+    "name": "Zunyi",
+    "country": "China",
+    "displayName": "Zunyi (China)"
+  },
+  {
+    "name": "Santiago",
+    "country": "Chile",
+    "displayName": "Santiago (Chile)"
+  },
+  {
+    "name": "Riyadh",
+    "country": "Saudi Arabia",
+    "displayName": "Riyadh (Saudi Arabia)"
+  },
+  {
+    "name": "Ahmedabad",
+    "country": "India",
+    "displayName": "Ahmedabad (India)"
+  },
+  {
+    "name": "Singapore",
+    "country": "Singapore",
+    "displayName": "Singapore (Singapore)"
+  },
+  {
+    "name": "Shantou",
+    "country": "China",
+    "displayName": "Shantou (China)"
+  },
+  {
+    "name": "Ankara",
+    "country": "Turkey",
+    "displayName": "Ankara (Turkey)"
+  },
+  {
+    "name": "Yangon",
+    "country": "Myanmar",
+    "displayName": "Yangon (Myanmar)"
+  },
+  {
+    "name": "Saint Petersburg",
+    "country": "Russia",
+    "displayName": "Saint Petersburg (Russia)"
+  },
+  {
+    "name": "Sydney",
+    "country": "Australia",
+    "displayName": "Sydney (Australia)"
+  },
+  {
+    "name": "Casablanca",
+    "country": "Morocco",
+    "displayName": "Casablanca (Morocco)"
+  },
+  {
+    "name": "Melbourne",
+    "country": "Australia",
+    "displayName": "Melbourne (Australia)"
+  },
+  {
+    "name": "Abidjan",
+    "country": "Ivory Coast",
+    "displayName": "Abidjan (Ivory Coast)"
+  },
+  {
+    "name": "Alexandria",
+    "country": "Egypt",
+    "displayName": "Alexandria (Egypt)"
+  },
+  {
+    "name": "Kolkata",
+    "country": "India",
+    "displayName": "Kolkata (India)"
+  },
+  {
+    "name": "Surat",
+    "country": "India",
+    "displayName": "Surat (India)"
+  },
+  {
+    "name": "Johannesburg",
+    "country": "South Africa",
+    "displayName": "Johannesburg (South Africa)"
+  },
+  {
+    "name": "Dar es Salaam",
+    "country": "Tanzania",
+    "displayName": "Dar es Salaam (Tanzania)"
+  },
+  {
+    "name": "Shijiazhuang",
+    "country": "China",
+    "displayName": "Shijiazhuang (China)"
+  },
+  {
+    "name": "Harbin",
+    "country": "China",
+    "displayName": "Harbin (China)"
+  },
+  {
+    "name": "Giza",
+    "country": "Egypt",
+    "displayName": "Giza (Egypt)"
+  },
+  {
+    "name": "İzmir",
+    "country": "Turkey",
+    "displayName": "İzmir (Turkey)"
+  },
+  {
+    "name": "Zhengzhou",
+    "country": "China",
+    "displayName": "Zhengzhou (China)"
+  },
+  {
+    "name": "New Taipei City",
+    "country": "Taiwan",
+    "displayName": "New Taipei City (Taiwan)"
+  },
+  {
+    "name": "Los Angeles",
+    "country": "United States",
+    "displayName": "Los Angeles (United States)"
+  },
+  {
+    "name": "Changchun",
+    "country": "China",
+    "displayName": "Changchun (China)"
+  },
+  {
+    "name": "Cape Town",
+    "country": "South Africa",
+    "displayName": "Cape Town (South Africa)"
+  },
+  {
+    "name": "Yokohama",
+    "country": "Japan",
+    "displayName": "Yokohama (Japan)"
+  },
+  {
+    "name": "Khartoum",
+    "country": "Sudan",
+    "displayName": "Khartoum (Sudan)"
+  },
+  {
+    "name": "Guayaquil",
+    "country": "Ecuador",
+    "displayName": "Guayaquil (Ecuador)"
+  },
+  {
+    "name": "Hangzhou",
+    "country": "China",
+    "displayName": "Hangzhou (China)"
+  },
+  {
+    "name": "Xiamen",
+    "country": "China",
+    "displayName": "Xiamen (China)"
+  },
+  {
+    "name": "Berlin",
+    "country": "Germany",
+    "displayName": "Berlin (Germany)"
+  },
+  {
+    "name": "Busan",
+    "country": "Korea, South",
+    "displayName": "Busan (Korea, South)"
+  },
+  {
+    "name": "Ningbo",
+    "country": "China",
+    "displayName": "Ningbo (China)"
+  },
+  {
+    "name": "Jeddah",
+    "country": "Saudi Arabia",
+    "displayName": "Jeddah (Saudi Arabia)"
+  },
+  {
+    "name": "Durban",
+    "country": "South Africa",
+    "displayName": "Durban (South Africa)"
+  },
+  {
+    "name": "Algiers",
+    "country": "Algeria",
+    "displayName": "Algiers (Algeria)"
+  },
+  {
+    "name": "Kabul",
+    "country": "Afghanistan",
+    "displayName": "Kabul (Afghanistan)"
+  },
+  {
+    "name": "Hefei",
+    "country": "China",
+    "displayName": "Hefei (China)"
+  },
+  {
+    "name": "Mashhad",
+    "country": "Iran",
+    "displayName": "Mashhad (Iran)"
+  },
+  {
+    "name": "Pyongyang",
+    "country": "Korea, North",
+    "displayName": "Pyongyang (Korea, North)"
+  },
+  {
+    "name": "Madrid",
+    "country": "Spain",
+    "displayName": "Madrid (Spain)"
+  },
+  {
+    "name": "Faisalabad",
+    "country": "Pakistan",
+    "displayName": "Faisalabad (Pakistan)"
+  },
+  {
+    "name": "Baku",
+    "country": "Azerbaijan",
+    "displayName": "Baku (Azerbaijan)"
+  },
+  {
+    "name": "Tangshan",
+    "country": "China",
+    "displayName": "Tangshan (China)"
+  },
+  {
+    "name": "Ekurhuleni",
+    "country": "South Africa",
+    "displayName": "Ekurhuleni (South Africa)"
+  },
+  {
+    "name": "Nairobi",
+    "country": "Kenya",
+    "displayName": "Nairobi (Kenya)"
+  },
+  {
+    "name": "Zhongshan",
+    "country": "China",
+    "displayName": "Zhongshan (China)"
+  },
+  {
+    "name": "Pune",
+    "country": "India",
+    "displayName": "Pune (India)"
+  },
+  {
+    "name": "Addis Ababa",
+    "country": "Ethiopia",
+    "displayName": "Addis Ababa (Ethiopia)"
+  },
+  {
+    "name": "Jaipur",
+    "country": "India",
+    "displayName": "Jaipur (India)"
+  },
+  {
+    "name": "Buenos Aires",
+    "country": "Argentina",
+    "displayName": "Buenos Aires (Argentina)"
+  },
+  {
+    "name": "Incheon",
+    "country": "Korea, South",
+    "displayName": "Incheon (Korea, South)"
+  },
+  {
+    "name": "Quezon City",
+    "country": "Philippines",
+    "displayName": "Quezon City (Philippines)"
+  },
+  {
+    "name": "Toronto",
+    "country": "Canada",
+    "displayName": "Toronto (Canada)"
+  },
+  {
+    "name": "Kiev",
+    "country": "Ukraine",
+    "displayName": "Kiev (Ukraine)"
+  },
+  {
+    "name": "Salvador",
+    "country": "Brazil",
+    "displayName": "Salvador (Brazil)"
+  },
+  {
+    "name": "Rome",
+    "country": "Italy",
+    "displayName": "Rome (Italy)"
+  },
+  {
+    "name": "Dubai",
+    "country": "United Arab Emirates",
+    "displayName": "Dubai (United Arab Emirates)"
+  },
+  {
+    "name": "Luanda",
+    "country": "Angola",
+    "displayName": "Luanda (Angola)"
+  },
+  {
+    "name": "Lucknow",
+    "country": "India",
+    "displayName": "Lucknow (India)"
+  },
+  {
+    "name": "Kaohsiung",
+    "country": "Taiwan",
+    "displayName": "Kaohsiung (Taiwan)"
+  },
+  {
+    "name": "Kanpur",
+    "country": "India",
+    "displayName": "Kanpur (India)"
+  },
+  {
+    "name": "Surabaya",
+    "country": "Indonesia",
+    "displayName": "Surabaya (Indonesia)"
+  },
+  {
+    "name": "Taichung",
+    "country": "Taiwan",
+    "displayName": "Taichung (Taiwan)"
+  },
+  {
+    "name": "Basra",
+    "country": "Iraq",
+    "displayName": "Basra (Iraq)"
+  },
+  {
+    "name": "Taipei",
+    "country": "Taiwan",
+    "displayName": "Taipei (Taiwan)"
+  },
+  {
+    "name": "Chicago",
+    "country": "United States",
+    "displayName": "Chicago (United States)"
+  },
+  {
+    "name": "Osaka",
+    "country": "Japan",
+    "displayName": "Osaka (Japan)"
+  },
+  {
+    "name": "Quito",
+    "country": "Ecuador",
+    "displayName": "Quito (Ecuador)"
+  },
+  {
+    "name": "Chaozhou",
+    "country": "China",
+    "displayName": "Chaozhou (China)"
+  },
+  {
+    "name": "Fortaleza",
+    "country": "Brazil",
+    "displayName": "Fortaleza (Brazil)"
+  },
+  {
+    "name": "Chittagong",
+    "country": "Bangladesh",
+    "displayName": "Chittagong (Bangladesh)"
+  },
+  {
+    "name": "Bandung",
+    "country": "Indonesia",
+    "displayName": "Bandung (Indonesia)"
+  },
+  {
+    "name": "Managua",
+    "country": "Nicaragua",
+    "displayName": "Managua (Nicaragua)"
+  },
+  {
+    "name": "Brasília",
+    "country": "Brazil",
+    "displayName": "Brasília (Brazil)"
+  },
+  {
+    "name": "Belo Horizonte",
+    "country": "Brazil",
+    "displayName": "Belo Horizonte (Brazil)"
+  },
+  {
+    "name": "Daegu",
+    "country": "Korea, South",
+    "displayName": "Daegu (Korea, South)"
+  },
+  {
+    "name": "Houston",
+    "country": "United States",
+    "displayName": "Houston (United States)"
+  },
+  {
+    "name": "Douala",
+    "country": "Cameroon",
+    "displayName": "Douala (Cameroon)"
+  },
+  {
+    "name": "Medellin",
+    "country": "Colombia",
+    "displayName": "Medellin (Colombia)"
+  },
+  {
+    "name": "Yaoundé",
+    "country": "Cameroon",
+    "displayName": "Yaoundé (Cameroon)"
+  },
+  {
+    "name": "Nagpur",
+    "country": "India",
+    "displayName": "Nagpur (India)"
+  },
+  {
+    "name": "Cali",
+    "country": "Colombia",
+    "displayName": "Cali (Colombia)"
+  },
+  {
+    "name": "Tashkent",
+    "country": "Uzbekistan",
+    "displayName": "Tashkent (Uzbekistan)"
+  },
+  {
+    "name": "Nagoya",
+    "country": "Japan",
+    "displayName": "Nagoya (Japan)"
+  },
+  {
+    "name": "Isfahan",
+    "country": "Iran",
+    "displayName": "Isfahan (Iran)"
+  },
+  {
+    "name": "Phnom Penh",
+    "country": "Cambodia",
+    "displayName": "Phnom Penh (Cambodia)"
+  },
+  {
+    "name": "Paris",
+    "country": "France",
+    "displayName": "Paris (France)"
+  },
+  {
+    "name": "Ouagadougou",
+    "country": "Burkina Faso",
+    "displayName": "Ouagadougou (Burkina Faso)"
+  },
+  {
+    "name": "Lanzhou",
+    "country": "China",
+    "displayName": "Lanzhou (China)"
+  },
+  {
+    "name": "Kano",
+    "country": "Nigeria",
+    "displayName": "Kano (Nigeria)"
+  },
+  {
+    "name": "Dalian",
+    "country": "China",
+    "displayName": "Dalian (China)"
+  },
+  {
+    "name": "Guatemala City",
+    "country": "Guatemala",
+    "displayName": "Guatemala City (Guatemala)"
+  },
+  {
+    "name": "Havana",
+    "country": "Cuba",
+    "displayName": "Havana (Cuba)"
+  },
+  {
+    "name": "Rawalpindi",
+    "country": "Pakistan",
+    "displayName": "Rawalpindi (Pakistan)"
+  },
+  {
+    "name": "Medan",
+    "country": "Indonesia",
+    "displayName": "Medan (Indonesia)"
+  },
+  {
+    "name": "Accra",
+    "country": "Ghana",
+    "displayName": "Accra (Ghana)"
+  },
+  {
+    "name": "Visakhapatnam",
+    "country": "India",
+    "displayName": "Visakhapatnam (India)"
+  },
+  {
+    "name": "Gujranwala",
+    "country": "Pakistan",
+    "displayName": "Gujranwala (Pakistan)"
+  },
+  {
+    "name": "Jinan",
+    "country": "China",
+    "displayName": "Jinan (China)"
+  },
+  {
+    "name": "Karaj",
+    "country": "Iran",
+    "displayName": "Karaj (Iran)"
+  },
+  {
+    "name": "Peshawar",
+    "country": "Pakistan",
+    "displayName": "Peshawar (Pakistan)"
+  },
+  {
+    "name": "Minsk",
+    "country": "Belarus",
+    "displayName": "Minsk (Belarus)"
+  },
+  {
+    "name": "Caracas",
+    "country": "Venezuela",
+    "displayName": "Caracas (Venezuela)"
+  },
+  {
+    "name": "Sana'a",
+    "country": "Yemen",
+    "displayName": "Sana'a (Yemen)"
+  },
+  {
+    "name": "Sapporo",
+    "country": "Japan",
+    "displayName": "Sapporo (Japan)"
+  },
+  {
+    "name": "Tainan",
+    "country": "Taiwan",
+    "displayName": "Tainan (Taiwan)"
+  },
+  {
+    "name": "Bucharest",
+    "country": "Romania",
+    "displayName": "Bucharest (Romania)"
+  },
+  {
+    "name": "Curitiba",
+    "country": "Brazil",
+    "displayName": "Curitiba (Brazil)"
+  },
+  {
+    "name": "Shiraz",
+    "country": "Iran",
+    "displayName": "Shiraz (Iran)"
+  },
+  {
+    "name": "Vienna",
+    "country": "Austria",
+    "displayName": "Vienna (Austria)"
+  },
+  {
+    "name": "Brazzaville",
+    "country": "Congo Republic",
+    "displayName": "Brazzaville (Congo Republic)"
+  },
+  {
+    "name": "Bhopal",
+    "country": "India",
+    "displayName": "Bhopal (India)"
+  },
+  {
+    "name": "Almaty",
+    "country": "Kazakhstan",
+    "displayName": "Almaty (Kazakhstan)"
+  },
+  {
+    "name": "Hamburg",
+    "country": "Germany",
+    "displayName": "Hamburg (Germany)"
+  },
+  {
+    "name": "Manila",
+    "country": "Philippines",
+    "displayName": "Manila (Philippines)"
+  },
+  {
+    "name": "Kuala Lumpur",
+    "country": "Malaysia",
+    "displayName": "Kuala Lumpur (Malaysia)"
+  },
+  {
+    "name": "Maputo",
+    "country": "Mozambique",
+    "displayName": "Maputo (Mozambique)"
+  },
+  {
+    "name": "Budapest",
+    "country": "Hungary",
+    "displayName": "Budapest (Hungary)"
+  },
+  {
+    "name": "Warsaw",
+    "country": "Poland",
+    "displayName": "Warsaw (Poland)"
+  },
+  {
+    "name": "Lusaka",
+    "country": "Zambia",
+    "displayName": "Lusaka (Zambia)"
+  },
+  {
+    "name": "Kathmandu",
+    "country": "Nepal",
+    "displayName": "Kathmandu (Nepal)"
+  },
+  {
+    "name": "Tabriz",
+    "country": "Iran",
+    "displayName": "Tabriz (Iran)"
+  },
+  {
+    "name": "Hyderabad",
+    "country": "Pakistan",
+    "displayName": "Hyderabad (Pakistan)"
+  },
+  {
+    "name": "Palembang",
+    "country": "Indonesia",
+    "displayName": "Palembang (Indonesia)"
+  },
+  {
+    "name": "Tijuana",
+    "country": "Mexico",
+    "displayName": "Tijuana (Mexico)"
+  },
+  {
+    "name": "Patna",
+    "country": "India",
+    "displayName": "Patna (India)"
+  },
+  {
+    "name": "Montreal",
+    "country": "Canada",
+    "displayName": "Montreal (Canada)"
+  },
+  {
+    "name": "Davao City",
+    "country": "Philippines",
+    "displayName": "Davao City (Philippines)"
+  },
+  {
+    "name": "Harare",
+    "country": "Zimbabwe",
+    "displayName": "Harare (Zimbabwe)"
+  },
+  {
+    "name": "Barcelona",
+    "country": "Spain",
+    "displayName": "Barcelona (Spain)"
+  },
+  {
+    "name": "Maracaibo",
+    "country": "Venezuela",
+    "displayName": "Maracaibo (Venezuela)"
+  },
+  {
+    "name": "Caloocan",
+    "country": "Philippines",
+    "displayName": "Caloocan (Philippines)"
+  },
+  {
+    "name": "Philadelphia",
+    "country": "United States",
+    "displayName": "Philadelphia (United States)"
+  },
+  {
+    "name": "Novosibirsk",
+    "country": "Russia",
+    "displayName": "Novosibirsk (Russia)"
+  },
+  {
+    "name": "Phoenix",
+    "country": "United States",
+    "displayName": "Phoenix (United States)"
+  },
+  {
+    "name": "Oran",
+    "country": "Algeria",
+    "displayName": "Oran (Algeria)"
+  },
+  {
+    "name": "Semarang",
+    "country": "Indonesia",
+    "displayName": "Semarang (Indonesia)"
+  },
+  {
+    "name": "Recife",
+    "country": "Brazil",
+    "displayName": "Recife (Brazil)"
+  },
+  {
+    "name": "Kobe",
+    "country": "Japan",
+    "displayName": "Kobe (Japan)"
+  },
+  {
+    "name": "Daejeon",
+    "country": "Korea, South",
+    "displayName": "Daejeon (Korea, South)"
+  },
+  {
+    "name": "Kampala",
+    "country": "Uganda",
+    "displayName": "Kampala (Uganda)"
+  },
+  {
+    "name": "Kawasaki",
+    "country": "Japan",
+    "displayName": "Kawasaki (Japan)"
+  },
+  {
+    "name": "Guadalajara",
+    "country": "Mexico",
+    "displayName": "Guadalajara (Mexico)"
+  },
+  {
+    "name": "Auckland",
+    "country": "New Zealand",
+    "displayName": "Auckland (New Zealand)"
+  },
+  {
+    "name": "Vijayawada",
+    "country": "India",
+    "displayName": "Vijayawada (India)"
+  },
+  {
+    "name": "Fukuoka",
+    "country": "Japan",
+    "displayName": "Fukuoka (Japan)"
+  },
+  {
+    "name": "Gwangju",
+    "country": "Korea, South",
+    "displayName": "Gwangju (Korea, South)"
+  },
+  {
+    "name": "Porto Alegre",
+    "country": "Brazil",
+    "displayName": "Porto Alegre (Brazil)"
+  },
+  {
+    "name": "Kyoto",
+    "country": "Japan",
+    "displayName": "Kyoto (Japan)"
+  },
+  {
+    "name": "San Antonio",
+    "country": "United States",
+    "displayName": "San Antonio (United States)"
+  },
+  {
+    "name": "Santa Cruz de la Sierra",
+    "country": "Bolivia",
+    "displayName": "Santa Cruz de la Sierra (Bolivia)"
+  },
+  {
+    "name": "Munich",
+    "country": "Germany",
+    "displayName": "Munich (Germany)"
+  },
+  {
+    "name": "Kharkiv",
+    "country": "Ukraine",
+    "displayName": "Kharkiv (Ukraine)"
+  },
+  {
+    "name": "Yekaterinburg",
+    "country": "Russia",
+    "displayName": "Yekaterinburg (Russia)"
+  },
+  {
+    "name": "San Diego",
+    "country": "United States",
+    "displayName": "San Diego (United States)"
+  },
+  {
+    "name": "Barranquilla",
+    "country": "Colombia",
+    "displayName": "Barranquilla (Colombia)"
+  },
+  {
+    "name": "Milan",
+    "country": "Italy",
+    "displayName": "Milan (Italy)"
+  },
+  {
+    "name": "Ibadan",
+    "country": "Nigeria",
+    "displayName": "Ibadan (Nigeria)"
+  },
+  {
+    "name": "Makassar",
+    "country": "Indonesia",
+    "displayName": "Makassar (Indonesia)"
+  },
+  {
+    "name": "Córdoba",
+    "country": "Argentina",
+    "displayName": "Córdoba (Argentina)"
+  },
+  {
+    "name": "Prague",
+    "country": "Czech Republic",
+    "displayName": "Prague (Czech Republic)"
+  },
+  {
+    "name": "Mandalay",
+    "country": "Myanmar",
+    "displayName": "Mandalay (Myanmar)"
+  },
+  {
+    "name": "Dallas",
+    "country": "United States",
+    "displayName": "Dallas (United States)"
+  },
+  {
+    "name": "Montevideo",
+    "country": "Uruguay",
+    "displayName": "Montevideo (Uruguay)"
+  },
+  {
+    "name": "Qom",
+    "country": "Iran",
+    "displayName": "Qom (Iran)"
+  },
+  {
+    "name": "Ahvaz",
+    "country": "Iran",
+    "displayName": "Ahvaz (Iran)"
+  },
+  {
+    "name": "Sofia",
+    "country": "Bulgaria",
+    "displayName": "Sofia (Bulgaria)"
+  },
+  {
+    "name": "Nizhny Novgorod",
+    "country": "Russia",
+    "displayName": "Nizhny Novgorod (Russia)"
+  },
+  {
+    "name": "Abuja",
+    "country": "Nigeria",
+    "displayName": "Abuja (Nigeria)"
+  },
+  {
+    "name": "Calgary",
+    "country": "Canada",
+    "displayName": "Calgary (Canada)"
+  },
+  {
+    "name": "Saitama",
+    "country": "Japan",
+    "displayName": "Saitama (Japan)"
+  },
+  {
+    "name": "Suwon",
+    "country": "South Korea",
+    "displayName": "Suwon (South Korea)"
+  },
+  {
+    "name": "Hiroshima",
+    "country": "Japan",
+    "displayName": "Hiroshima (Japan)"
+  },
+  {
+    "name": "Rosario",
+    "country": "Argentina",
+    "displayName": "Rosario (Argentina)"
+  },
+  {
+    "name": "Brisbane",
+    "country": "Australia",
+    "displayName": "Brisbane (Australia)"
+  },
+  {
+    "name": "Allahabad",
+    "country": "India",
+    "displayName": "Allahabad (India)"
+  },
+  {
+    "name": "Belgrade",
+    "country": "Serbia",
+    "displayName": "Belgrade (Serbia)"
+  },
+  {
+    "name": "Campinas",
+    "country": "Brazil",
+    "displayName": "Campinas (Brazil)"
+  },
+  {
+    "name": "Ulsan",
+    "country": "Korea, South",
+    "displayName": "Ulsan (Korea, South)"
+  },
+  {
+    "name": "Omsk",
+    "country": "Russia",
+    "displayName": "Omsk (Russia)"
+  },
+  {
+    "name": "Dakar",
+    "country": "Senegal",
+    "displayName": "Dakar (Senegal)"
+  },
+  {
+    "name": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "displayName": "Abu Dhabi (United Arab Emirates)"
+  },
+  {
+    "name": "Monterrey",
+    "country": "Mexico",
+    "displayName": "Monterrey (Mexico)"
+  },
+  {
+    "name": "Tripoli",
+    "country": "Libya",
+    "displayName": "Tripoli (Libya)"
+  },
+  {
+    "name": "Rostov-on-Don",
+    "country": "Russia",
+    "displayName": "Rostov-on-Don (Russia)"
+  },
+  {
+    "name": "T'bilisi",
+    "country": "Georgia",
+    "displayName": "T'bilisi (Georgia)"
+  },
+  {
+    "name": "Fez",
+    "country": "Morocco",
+    "displayName": "Fez (Morocco)"
+  },
+  {
+    "name": "Birmingham",
+    "country": "United Kingdom",
+    "displayName": "Birmingham (United Kingdom)"
+  },
+  {
+    "name": "Yerevan",
+    "country": "Armenia",
+    "displayName": "Yerevan (Armenia)"
+  },
+  {
+    "name": "Cologne",
+    "country": "Germany",
+    "displayName": "Cologne (Germany)"
+  },
+  {
+    "name": "Tunis",
+    "country": "Tunisia",
+    "displayName": "Tunis (Tunisia)"
+  },
+  {
+    "name": "Bulawayo",
+    "country": "Zimbabwe",
+    "displayName": "Bulawayo (Zimbabwe)"
+  },
+  {
+    "name": "Astana",
+    "country": "Kazakhstan",
+    "displayName": "Astana (Kazakhstan)"
+  },
+  {
+    "name": "Islamabad",
+    "country": "Pakistan",
+    "displayName": "Islamabad (Pakistan)"
+  },
+  {
+    "name": "Cartagena",
+    "country": "Colombia",
+    "displayName": "Cartagena (Colombia)"
+  }
+]
