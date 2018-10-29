@@ -4,8 +4,8 @@ import SearchBox from "./SearchBox"
 export default function SearchBoxStatic() {
     return (
         <SearchBox
-            searchValue="Bel"
-            suggestions={["Belarus", "Belgium", "Belize", "Palau"]}
+            searchValue="Prague"
+            suggestions={["Prague (Czech Republic)"]}
         />
     )
 }

@@ -6,8 +6,8 @@
   "main": "src/index.js",
   "dependencies": {
     "@material-ui/core": "latest",
-    "react": "16.5.2",
-    "react-dom": "16.5.2",
+    "react": "16.6.0",
+    "react-dom": "16.6.0",
     "react-scripts": "2.0.3",
     "refract-rxjs": "2.2.0",
     "rxjs": "latest"
