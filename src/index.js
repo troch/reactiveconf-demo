@@ -11,7 +11,7 @@ import SearchBoxSavedFinal from "./final/SearchBoxSaved"
 import storage from "./storage"
 
 function App() {
-    return <SearchBoxRefractFinal />
+    return <SearchBox />
 }
 
 const rootElement = document.getElementById("root")
