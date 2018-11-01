@@ -19,7 +19,7 @@ const aperture = (
     const [
         searchValue$,
         setSearchValue
-    ] = component.useEvent("search", storage.get("search"))
+    ] = component.useEvent("search", storage.get("search") || '')
 
     const suggestions$ = searchValue$.pipe(
         filter(value => value && value.length >= 2),

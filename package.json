@@ -10,7 +10,7 @@
     "react-dom": "16.6.0",
     "react-scripts": "2.0.3",
     "refract-rxjs": "2.2.0",
-    "rxjs": "latest"
+    "rxjs": "6.2.2"
   },
   "devDependencies": {
     "cors": "~2.8.4",
