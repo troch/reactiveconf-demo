@@ -2,13 +2,10 @@ import "./index.css"
 
 import React from "react"
 import ReactDOM from "react-dom"
-import SearchBox from "./SearchBox"
-import SearchBoxStatic from "./SearchBoxStatic"
-import SearchBoxRefract from "./SearchBoxRefract"
-import SearchBoxRefractFinal from "./final/SearchBoxRefract"
+import ConnectedSearchBox from "./ConnectedSearchBox"
 
 function App() {
-    return <SearchBox />
+    return <ConnectedSearchBox />
 }
 
 const rootElement = document.getElementById("root")
